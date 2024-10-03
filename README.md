@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olha-kyr
+- 👋 Hi, I’m Olha Kyrychenko
 - 👀 I’m interested in Software testing, reading, traveling, taking micro photos
 - 🌱 I’m currently learning QA Automation course in JavaScript
 - 💞️ I’m looking to collaborate on ...
